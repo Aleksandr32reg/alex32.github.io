@@ -1,0 +1,63 @@
+.all-part{
+    background-color: #ffc400;
+    /* text-align: center; */
+    margin-left:15%;
+    width: 70%;
+
+}
+.bc{
+    background-color: #575654;
+    height: auto;
+    width: auto;
+}
+p{
+    font-family: "Century Gothic"  ;
+    font-size: xx-large;
+}
+.hat
+ {
+     background-color: #575654;
+    text-align: center;
+    margin-left:15%;
+    width: 70%;
+ }
+.fot
+{
+    background-color: #575654;
+    height: 470px;
+
+}
+.abc{
+    color: #ffc400 ;
+    width: 70%;
+    margin-left:15%;
+    text-align: center;
+}
+
+.alex
+{
+    font-size: x-large;
+    text-align: center;
+}
+.back
+{
+    margin-top: 10px;
+    text-shadow: none;
+    background-color: #ffc400 ;
+    border: 1px solid #ffc400;
+    padding: 10px 16px;
+    color: #575654;
+    text-decoration: none;
+    width: 70%;
+    margin-left:15%;
+    text-align: center;
+    font-size: xx-large;
+}
+
+a:hover img  {
+    border: 3px solid #575654; /* Рамка при наведении на ссылку курсора мыши */
+}
+.dfg
+{
+    height: 100px;
+}
